@@ -1,9 +1,18 @@
-title:             Clean Blog
+title:             Laniakea
 email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
+description:       Automatic deployment of virtual Galaxy environments for life science
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:           "/elixir-italy-laniakea"
+url:               "http://mtangaro.github.io"
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'News', link: '/posts'}
+  - {name: 'Documentation', link: 'https://laniakea.readthedocs.io/en/latest/'}
+  - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it/login'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
 
 # Social Profiles
 twitter_username:  SBootstrap

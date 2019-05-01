@@ -1,5 +1,8 @@
 title:             Laniakea
-email:             your-email@example.com
+logo:              "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir_italy_white_background.png"
+navbar_title:      Elixir-Italy Laniakea
+navbar_logo:       "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir-white-orange-logo.png"
+email:             ma.tangaro@ibiom.cnr.it
 description:       Automatic deployment of virtual Galaxy environments for life science
 author:            Start Bootstrap
 baseurl:           "/elixir-italy-laniakea"

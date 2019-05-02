@@ -1,6 +1,6 @@
 title:             Laniakea
 logo:              "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir_italy_white_background.png"
-navbar_title:      Elixir-Italy Laniakea
+navbar_title:      ELIXIR Italy Laniakea
 navbar_logo:       "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir-white-orange-logo.png"
 email:             ma.tangaro@ibiom.cnr.it
 description:       Automatic deployment of virtual Galaxy environments for life science
@@ -14,8 +14,8 @@ navigation: # Navigation links
   - {name: 'News', link: '/posts'}
   - {name: 'Documentation', link: 'https://laniakea.readthedocs.io/en/latest/'}
   - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it/login'}
-  - {name: 'Cite', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contacts', link: '/contact'}
 
 # Social Profiles
 github_username:   Laniakea-elixir-it

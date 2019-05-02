@@ -4,18 +4,27 @@ navbar_title:      ELIXIR Italy Laniakea
 navbar_logo:       "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir-white-orange-logo.png"
 email:             ma.tangaro@ibiom.cnr.it
 description:       Automatic deployment of virtual Galaxy environments for life science
-author:            Start Bootstrap
+author:            Marco Tangaro
 baseurl:           "/elixir-italy-laniakea"
 url:               "http://mtangaro.github.io"
 
-# THEME SETTINGS
-navigation: # Navigation links
+# Navbar links
+navigation:
   - {name: 'Home', link: '/'}
   - {name: 'News', link: '/posts'}
   - {name: 'Documentation', link: 'https://laniakea.readthedocs.io/en/latest/'}
   - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it/login'}
   - {name: 'About', link: '/about'}
   - {name: 'Contacts', link: '/contact'}
+
+# Contributors
+contributors:
+- {name: 'elixir-italy', logo_link: 'https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir_italy_white_background.png'}
+- {name: 'ibiom-cnr', logo_link: 'https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/IBIOM.png'}
+- {name: 'infn-bari', logo_link: 'https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/INFN.png'}
+- {name: 'unimi', logo_link: 'https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/UNIMI.jpg'}
+- {name: 'recas-bari', logo_link: 'https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/ReCaS.png'}
+
 
 # Social Profiles
 github_username:   Laniakea-elixir-it

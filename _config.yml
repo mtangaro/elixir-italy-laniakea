@@ -14,8 +14,8 @@ navigation: # Navigation links
   - {name: 'News', link: '/posts'}
   - {name: 'Documentation', link: 'https://laniakea.readthedocs.io/en/latest/'}
   - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it/login'}
-  - {name: 'Cite', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contacts', link: '/contact'}
 
 # Social Profiles
 github_username:   Laniakea-elixir-it

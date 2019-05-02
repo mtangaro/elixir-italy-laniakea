@@ -18,9 +18,9 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+github_username:   Laniakea-elixir-it
+twitter_username:  elixir_ita
+#facebook_username: StartBootstrap
 
 # Build settings
 markdown:          kramdown

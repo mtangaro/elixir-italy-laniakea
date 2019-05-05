@@ -13,7 +13,7 @@ navigation:
   - {name: 'Home', link: '/'}
   - {name: 'News', link: '/posts'}
   - {name: 'Documentation', link: 'https://laniakea.readthedocs.io/en/latest/'}
-  - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it/login'}
+  - {name: 'Deploy', link: 'https://cloud-90-147-75-117.cloud.ba.infn.it'}
   - {name: 'About', link: '/about'}
   - {name: 'Contacts', link: '/contact'}
 

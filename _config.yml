@@ -1,7 +1,7 @@
 title:             Laniakea
 logo:              "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir_italy_white_background.png"
 navbar_title:      ELIXIR Italy Laniakea
-navbar_logo:       "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/elixir-white-orange-logo.png"
+navbar_logo:       "https://raw.githubusercontent.com/Laniakea-elixir-it/resources/master/logos/ELIXIR_ITALY_orange.png"
 email:             ma.tangaro@ibiom.cnr.it
 description:       Automatic deployment of virtual Galaxy environments for life science
 author:            Marco Tangaro
